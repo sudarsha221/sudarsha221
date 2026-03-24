@@ -11,8 +11,9 @@
 ---
 
 ## 🌱 I’m currently learning
-- React.js & Vue.js  
-- GSAP Animations  
+-python
+-SQL
+-Machine learning
 - Advanced Deep Learning (CNN, Transfer Learning)  
 - Model Deployment (Flask, APIs)  
 
